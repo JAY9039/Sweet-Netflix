@@ -1,4 +1,4 @@
-# <h1 align="center">[SWEET NETFLIX](https://finanssi.netlify.app/)</h1>
+# <h1 align="center">[SWEET NETFLIX](https://www.linkedin.com/in/j-shharma/)</h1>
 
 ## Features
 
@@ -26,7 +26,7 @@ linkedIn - https://www.linkedin.com/in/j-shharma/
 <h1 align="center"> Click on any of the Hearts below to go to the Hosted App </h1>
 <h1 align="center"> ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️ </h1>
 
-[ 💖💖 💖 💖 💖 💖 💖 💖 💖 💖 💖 💖 💖 💖💖 💖 💖 💖 💖 💖 💖 💖💖 💖 💖 💖 💖 💖 💖 💖 💖 💖 ]((https://www.linkedin.com/in/j-shharma/)
+[ 💖💖 💖 💖 💖 💖 💖 💖 💖 💖 💖 💖 💖 💖💖 💖 💖 💖 💖 💖 💖 💖💖 💖 💖 💖 💖 💖 💖 💖 💖 💖 ](https://www.linkedin.com/in/j-shharma/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/50d82042-b0c6-490b-8d5b-58c96036d73a/deploy-status)]
 
